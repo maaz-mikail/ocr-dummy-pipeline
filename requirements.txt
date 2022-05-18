@@ -1,0 +1,9 @@
+numpy
+fastapi
+opencv-python
+PIL
+paddlepaddle
+paddleocr
+easyocr
+uvicorn
+gunicorn
